@@ -1,0 +1,92 @@
+[
+  {
+    "image": "https://m.media-amazon.com/images/I/710EGJBdIML._AC_SL1500_.jpg",
+    "name": "XPS 13",
+    "brand": "Dell",
+    "operating_system": "Windows 11",
+    "ram": "16GB",
+    "color": "Silver",
+    "price": "$1,200"
+  },
+  {
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-15-inch-8-CPU-10-GPU-Midnight-2449.jpg",
+    "name": "MacBook Air",
+    "brand": "Apple",
+    "operating_system": "macOS",
+    "ram": "8GB",
+    "color": "Space Gray",
+    "price": "$1,000"
+  },
+  {
+    "image": "https://www.ryans.com/storage/products/main/hp-spectre-x360-convertible-14-ef2027tu-intel-11691652962.webp",
+    "name": "Spectre x360",
+    "brand": "HP",
+    "operating_system": "Windows 11",
+    "ram": "16GB",
+    "color": "Black",
+    "price": "$1,300"
+  },
+  {
+    "image": "https://www.custommacbd.com/cdn/shop/files/Lenovo-Thinkpad-X1-Carbon-14-Custom-Mac-BD.jpg?v=1693827386",
+    "name": "ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "operating_system": "Windows 11",
+    "ram": "16GB",
+    "color": "Black",
+    "price": "$1,400"
+  },
+  {
+    "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Lenovo-Yoga-Slim-3.jpg",
+    "name": "Yoga Slim 7i",
+    "brand": "Lenovo",
+    "operating_system": "Windows 11",
+    "ram": "8GB",
+    "color": "Gray",
+    "price": "$900"
+  },
+  {
+    "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Acer-Swift-3-SF314-Price-1.jpg",
+    "name": "Swift 3",
+    "brand": "Acer",
+    "operating_system": "Windows 11",
+    "ram": "8GB",
+    "color": "Silver",
+    "price": "$700"
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/zenbook-14-oled-ux3405ma/zenbook-14-oled-ux3405ma-01-500x500.webp",
+    "name": "ZenBook 14",
+    "brand": "Asus",
+    "operating_system": "Windows 11",
+    "ram": "16GB",
+    "color": "Blue",
+    "price": "$1,100"
+  },
+  {
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08173322.png",
+    "name": "Pavilion 15",
+    "brand": "HP",
+    "operating_system": "Windows 11",
+    "ram": "8GB",
+    "color": "Silver",
+    "price": "$800"
+  },
+  {
+    "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Surface-Laptop-4-Price-in-BD-2.jpg",
+    "name": "Surface Laptop 4",
+    "brand": "Microsoft",
+    "operating_system": "Windows 11",
+    "ram": "16GB",
+    "color": "Platinum",
+    "price": "$1,200"
+  },
+  {
+    "image": "https://fourstaritbd.com/wp-content/uploads/2023/03/dell-inspiron-15-3520-core-i5-12th-gen-geforce-mx550-2gb-15-6-fhd-laptop-2-price-in-bangladesh-fourstaritbd-scaled.webp",
+    "name": "Inspiron 15",
+    "brand": "Dell",
+    "operating_system": "Windows 11",
+    "ram": "8GB",
+    "color": "Black",
+    "price": "$750"
+  }
+]
